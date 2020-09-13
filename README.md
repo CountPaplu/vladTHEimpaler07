@@ -1,5 +1,5 @@
 [![linkedin](https://github.com/vladTHEimpaler07/img_kekw/blob/master/unnamed_30x30.png)](https://www.linkedin.com/in/sayantan-ganguly-464459197/)
-[![instagram](https://github.com/vladTHEimpaler07/img_kekw/blob/master/Webp.net-resizeimage.jpg)](https://www.instagram.com/die_hard_hazard/)
+[![instagram](https://github.com/vladTHEimpaler07/img_kekw/blob/master/insta_img (1).jpg)](https://www.instagram.com/die_hard_hazard/)
 
 # Hello there ; General Kenobi ?!
 
