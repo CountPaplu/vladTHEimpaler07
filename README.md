@@ -1,4 +1,4 @@
-[![linkedin](https://github.com/vladTHEimpaler07/img_kekw/blob/master/Webp.net-resizeimage(1).jpg)](https://www.linkedin.com/in/sayantan-ganguly-464459197/)
+[![linkedin](https://github.com/vladTHEimpaler07/img_kekw/blob/master/unnamed_30x30.png)](https://www.linkedin.com/in/sayantan-ganguly-464459197/)
 [![instagram](https://github.com/vladTHEimpaler07/img_kekw/blob/master/Webp.net-resizeimage.jpg)](https://www.instagram.com/die_hard_hazard/)
 
 # Hello there ; General Kenobi ?!
@@ -15,5 +15,5 @@ If I find something interesting and intriguing all the facts mentioned in the ab
 - 💬 Ask me about Regression , SVM , Naive Bayes , Neural Networks 
 - 📫 How to reach me: Here's my e-mail id [gsayantan32@gmail.com](mailto:gsayantan32@gmail.com)
 - 😄 Pronouns: Paplu
-- ⚡ Fun fact: I use WORD.EXE in online fps
+- ⚡ Fun fact : I use WORD.EXE in online fps
 
