@@ -9,7 +9,7 @@ If I find something interesting and intriguing all the facts mentioned in the ab
 
 
 - 🔭 I’m currently working on TENSORFLOW
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing and Django
 - 👯 Solo projects , even if they're shitty
 - 🤔 I’m looking for help with OpneCV
 - 💬 Ask me about Regression , SVM , Naive Bayes , Neural Networks 
