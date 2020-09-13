@@ -1,16 +1,19 @@
-### Hi there 👋
+[![linkedin](https://github.com/vladTHEimpaler07/img_kekw/blob/master/linknedin_img.jpg)](https://www.linkedin.com/in/sayantan-ganguly-464459197/)
+[![instagram](https://github.com/vladTHEimpaler07/img_kekw/blob/master/insta_img.jpg)](https://www.instagram.com/die_hard_hazard/)
 
-<!--
-**vladTHEimpaler07/vladTHEimpaler07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there ; General Kenobi ?!
 
-Here are some ideas to get you started:
+This is Sayantan , I am a very little productive , spoilt kid who knows little how to code .
+If I find something interesting and intriguing all the facts mentioned in the above sentence returns a boolean value of False .
+:3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on TENSORFLOW
+- 🌱 I’m currently learning Natural Language Processing
+- 👯 Solo projects , even if they're shitty
+- 🤔 I’m looking for help with OpneCV
+- 💬 Ask me about Regression , SVM , Naive Bayes , Neural Networks 
+- 📫 How to reach me: Here's my e-mail id [gsayantan32@gmail.com](mailto:gsayantan32@gmail.com)
+- 😄 Pronouns: Paplu
+- ⚡ Fun fact: I use WORD.EXE in online fps
+
