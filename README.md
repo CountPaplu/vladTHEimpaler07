@@ -10,8 +10,8 @@ If I find something interesting and intriguing all the facts mentioned in the ab
 
 - 🔭 I’m currently working on TENSORFLOW
 - 🌱 I’m currently learning Natural Language Processing and Django
-- 👯 Solo projects , even if they're shitty
-- 🤔 I’m looking for help with OpneCV
+- 👯 Solo projects anyday, even if they're shitty
+- 🤔 I’m looking for help with OpenCV
 - 💬 Ask me about Regression , SVM , Naive Bayes , Neural Networks 
 - 📫 How to reach me: Here's my e-mail id [gsayantan32@gmail.com](mailto:gsayantan32@gmail.com)
 - 😄 Pronouns: Paplu
