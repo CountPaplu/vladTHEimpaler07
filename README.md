@@ -3,7 +3,7 @@
 
 ## Hello there ; General Kenobi ?!
 
-This is Sayantan , I am a very little productive , spoilt kid who knows little how to code .
+This is Sayantan , I am a very less productive , spoilt kid who knows little how to code .
 If I find something interesting and intriguing all the facts mentioned in the above sentence returns a boolean value of False .
 
 
