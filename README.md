@@ -9,11 +9,11 @@ If I find something interesting and intriguing all the facts mentioned in the ab
 
 
 - 🔭 I’m currently working on TENSORFLOW
-- 🌱 I’m currently learning Natural Language Processing and Django
-- 👯 Solo projects anyday, even if they're shitty
+- 🌱 I’m currently learning Natural Language Processing and Neural Networks
+- 👯 Solo projects anyday (with a sarcastic minority of copy paste from STACKOVERFLOW)
 - 🤔 I’m looking for help with OpenCV
-- 💬 Ask me about Regression , SVM , Naive Bayes , Neural Networks 
+- 💬 Ask me about Regression , Machine Learning 
 - 📫 How to reach me: Here's my e-mail id [gsayantan32@gmail.com](mailto:gsayantan32@gmail.com)
-- 😄 Pronouns: Paplu
-- ⚡ Fun fact : I use WORD.EXE in online fps
+- 😄 Pronouns: HE/HIM/PAPLU
+- ⚡ Fun fact : I do not use WORD.EXE in online strategic fps
 
